@@ -9,3 +9,4 @@
   - Predict if SpaceX Falcon 9 first stage will land successfully after rocket launches. [SpaceX Landing Prediction](https://github.com/prievarag/SpaceX-Falcon-9-1st-stage-Success-Landing-Prediction)
   - Kaggle Survey 2022 - Simple Data Visualization related to findings of Kaggle survey conducted in 2022 by Kaggle around the world. [Kaggle Survey 2022](https://github.com/prievarag/Kaggle-Survey-2022/tree/main)
   - Employee Attrition Prediction - a standard classification problem in which we find out which variables cause employees to leave the organization. [Employee Attrition Prediction](https://github.com/prievarag/Employee-Attrition)
+  - Word Cloud with Python - if we want to draw attention to important keywords, it is worth finding a solution that differs from the usual. [Word Cloud in Python](https://github.com/prievarag/Word-Cloud)
